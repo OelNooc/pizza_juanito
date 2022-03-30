@@ -15,4 +15,6 @@
     <string name="choclo_200">Choclo $200</string>
     <string name="aceituna_250">Aceituna $250</string>
     <string name="aceptar">Aceptar</string>
+    <string name="cliente">Cliente:</string>
+    <string name="total">Total:</string>
 </resources>
